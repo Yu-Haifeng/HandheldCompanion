@@ -1039,7 +1039,7 @@
     <value>请以管理员身份运行此工具以解锁设置</value>
   </data>
   <data name="ControllerPage_SteamControllerMode" xml:space="preserve">
-    <value>控制器模式/value>
+    <value>控制器模式</value>
   </data>
   <data name="ControllerPage_SteamControllerModeDesc" xml:space="preserve">
     <value>更改控制器模式：独占模式或混合模式。独占模式将确保所有输入由 Handheld Companion（HC）管理。混合模式允许 Steam 管理来自 Steam 应用程序的输入，HC 管理其他应用程序的输入。</value>
@@ -1822,7 +1822,7 @@
     <value>摇杆转向</value>
   </data>
   <data name="Enum_MotionInput_PlayerSpace" xml:space="preserve">
-    <value>玩家坐标系/value>
+    <value>玩家坐标系</value>
   </data>
   <data name="Enum_MotionOutput_LeftStick" xml:space="preserve">
     <value>左摇杆</value>
@@ -1933,7 +1933,7 @@
     <value>A</value>
   </data>
   <data name="Enum_GamepadButtonFlagsExt_AlwaysOn" xml:space="preserve">
-    <value>始终启用/value>
+    <value>始终启用</value>
   </data>
   <data name="Enum_GamepadButtonFlagsExt_B" xml:space="preserve">
     <value>B</value>
