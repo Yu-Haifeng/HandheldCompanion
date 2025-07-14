@@ -76,7 +76,7 @@ AppVersion={#MyAppVersion}
 AppVerName={#MyAppSetupName}
 AppCopyright={#MyAppCopyright}
 // remove next line if you only deploy 32-bit binaries and dependencies
-ArchitecturesInstallIn64BitMode=x64compatible
+ArchitecturesInstallIn64BitMode=x64
 AppPublisher={#MyAppPublisher}
 AppPublisherURL={#MyAppURL}
 AppSupportURL={#MyAppURL}
